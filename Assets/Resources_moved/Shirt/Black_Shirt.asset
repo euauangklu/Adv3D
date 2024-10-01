@@ -24,7 +24,8 @@ MonoBehaviour:
   m_icon: {fileID: 21300000, guid: b88c08ea4dbf00f42b8afcebafb83bb9, type: 3}
   m_name: BlackShirt
   m_characterClothing: Shirt
-  m_mesh: {fileID: -700376552972895907, guid: b1c1471c599956e4cbd19fd71ef0707a, type: 3}
+  m_mesh: {fileID: -405372444571023781, guid: 091f49d09d30ca84998fd9f0b908fb35, type: 3}
   m_materials:
   - {fileID: 2100000, guid: 2f04968ab7da3504d9548d81ea890bdd, type: 2}
+  - {fileID: 2100000, guid: 512351444c6022f4ba6cb642c7e83531, type: 2}
   m_offsetFoot: {x: 0, y: 0, z: 0}

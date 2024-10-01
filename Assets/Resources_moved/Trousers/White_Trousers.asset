@@ -24,7 +24,7 @@ MonoBehaviour:
   m_icon: {fileID: 21300000, guid: 888f7a8c4181d9d4e98bfca18cfd1804, type: 3}
   m_name: White Trousers
   m_characterClothing: Trousers
-  m_mesh: {fileID: -7051839916821751939, guid: b1c1471c599956e4cbd19fd71ef0707a, type: 3}
+  m_mesh: {fileID: -8646913674898835722, guid: 091f49d09d30ca84998fd9f0b908fb35, type: 3}
   m_materials:
   - {fileID: 2100000, guid: d1fdf2dc99b99914d80d3f565c516602, type: 2}
   - {fileID: 2100000, guid: e9638f2a2ac9a9947afd890a64ef4a5b, type: 2}

@@ -24,7 +24,7 @@ MonoBehaviour:
   m_icon: {fileID: 21300000, guid: 6758bc1fb276e7c42ac6756083019273, type: 3}
   m_name: Black Shoe
   m_characterClothing: Shoe
-  m_mesh: {fileID: 2875899105494956847, guid: b1c1471c599956e4cbd19fd71ef0707a, type: 3}
+  m_mesh: {fileID: -5187657201522439656, guid: 091f49d09d30ca84998fd9f0b908fb35, type: 3}
   m_materials:
   - {fileID: 2100000, guid: 466fd5b89850b0e468bd833a5ee4e917, type: 2}
   m_offsetFoot: {x: 0, y: 0, z: 0}

@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: b1c1471c599956e4cbd19fd71ef0707a
+guid: 091f49d09d30ca84998fd9f0b908fb35
 ModelImporter:
   serializedVersion: 22200
   internalIDToNameTable: []
@@ -7,68 +7,83 @@ ModelImporter:
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
-      name: pant3.001
-    second: {fileID: 2100000, guid: d1fdf2dc99b99914d80d3f565c516602, type: 2}
+      name: pant3
+    second: {fileID: 2100000, guid: 10025bd1d988bb64bb2a0217a36670f4, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
-      name: shirt3.001
-    second: {fileID: 2100000, guid: 2f04968ab7da3504d9548d81ea890bdd, type: 2}
+      name: shirt3
+    second: {fileID: 2100000, guid: 9fd3cf919e51d6a4aa9b7a10dc995589, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
-      name: shoes3.001
-    second: {fileID: 2100000, guid: 466fd5b89850b0e468bd833a5ee4e917, type: 2}
+      name: shoes3
+    second: {fileID: 2100000, guid: 13946a4986dbd10429643957201d7456, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
-      name: tie3.001
-    second: {fileID: 2100000, guid: e9638f2a2ac9a9947afd890a64ef4a5b, type: 2}
+      name: skin
+    second: {fileID: 2100000, guid: 2012f0e8644b823449586d780a8ee4f8, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
-      name: whiteblind.001
-    second: {fileID: 2100000, guid: dc26ccf7ecf36b84c9d2513446aaa791, type: 2}
+      name: tie3
+    second: {fileID: 2100000, guid: 8a571a1aa31ae634f87c1fb341b4ef42, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: whiteblind
+    second: {fileID: 2100000, guid: 8668ded9caef01e4b9b1508b9a1ba138, type: 2}
   - first:
       type: UnityEngine:Texture2D
       assembly: UnityEngine.CoreModule
       name: Whiteblind_BlackBlind_BaseMap
-    second: {fileID: 2800000, guid: 11da894e7523713498ec263c22fcc93f, type: 3}
+    second: {fileID: 2800000, guid: cf2ca6509e59c1c46bbf978bd1861114, type: 3}
   - first:
       type: UnityEngine:Texture2D
       assembly: UnityEngine.CoreModule
       name: Whiteblind_BlackBlind_Normal
-    second: {fileID: 2800000, guid: aed1b262fd91e0c4f8b03263b93c6a81, type: 3}
+    second: {fileID: 2800000, guid: 9a0809ab453fcd441a9b6b681b9daafb, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: body_body_BaseMap
+    second: {fileID: 2800000, guid: 7e69038ff7c3cfd4db97e4e9aa6ec8ba, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: body_body_Normal
+    second: {fileID: 2800000, guid: cfe2676ad60d13d40afde1641dc0aa4f, type: 3}
   - first:
       type: UnityEngine:Texture2D
       assembly: UnityEngine.CoreModule
       name: pant3_pant3_BaseMap
-    second: {fileID: 2800000, guid: 9af87ebe7163b364ea248756b0dc93c4, type: 3}
+    second: {fileID: 2800000, guid: 4e1ef83d42d0a9f40bc08537943fa1c7, type: 3}
   - first:
       type: UnityEngine:Texture2D
       assembly: UnityEngine.CoreModule
       name: pant3_pant3_Normal
-    second: {fileID: 2800000, guid: 2120c27c07f97a54196e48b76c604c23, type: 3}
+    second: {fileID: 2800000, guid: f6082e7b39ed6ac409c01f55ddfb3539, type: 3}
   - first:
       type: UnityEngine:Texture2D
       assembly: UnityEngine.CoreModule
       name: shirt3_Material.031_BaseMap
-    second: {fileID: 2800000, guid: 7de327811555d4249b24fa13cdb1ed78, type: 3}
+    second: {fileID: 2800000, guid: 37065e61516672b4c8cea272089425cd, type: 3}
   - first:
       type: UnityEngine:Texture2D
       assembly: UnityEngine.CoreModule
       name: shirt3_Material.031_Normal
-    second: {fileID: 2800000, guid: 7d7d945917dccb94db11e3548595b687, type: 3}
+    second: {fileID: 2800000, guid: 3314e7815adc9e74e85bc62e4ad3827d, type: 3}
   - first:
       type: UnityEngine:Texture2D
       assembly: UnityEngine.CoreModule
       name: shoes3_shoes3_BaseMap
-    second: {fileID: 2800000, guid: 52ec20b92e4442d448fd790e9292ce40, type: 3}
+    second: {fileID: 2800000, guid: 3622112f92843954a812010b1cbd39f1, type: 3}
   - first:
       type: UnityEngine:Texture2D
       assembly: UnityEngine.CoreModule
       name: shoes3_shoes3_Normal
-    second: {fileID: 2800000, guid: 80a33d4cc79b6a34bbdba61dd8cc7468, type: 3}
+    second: {fileID: 2800000, guid: 8baff444f6f1f0e4ba1599db1e82c3b5, type: 3}
   materials:
     materialImportMode: 2
     materialName: 0
@@ -143,7 +158,7 @@ ModelImporter:
     blendShapeNormalImportMode: 1
     normalSmoothingSource: 0
   referencedClips: []
-  importAnimation: 1
+  importAnimation: 0
   humanDescription:
     serializedVersion: 3
     human:
@@ -564,18 +579,18 @@ ModelImporter:
         length: 0
         modified: 0
     skeleton:
-    - name: outfit1Rig(Clone)
+    - name: outfit1Rig 1(Clone)
       parentName: 
       position: {x: 0, y: 0, z: 0}
       rotation: {x: 0, y: 0, z: 0, w: 1}
       scale: {x: 1, y: 1, z: 1}
-    - name: Armature.002
-      parentName: outfit1Rig(Clone)
+    - name: Armature.001
+      parentName: outfit1Rig 1(Clone)
       position: {x: -0, y: 0, z: 0}
       rotation: {x: -0.000000037748947, y: 0, z: -0, w: 1}
       scale: {x: 1, y: 1, z: 1}
     - name: mixamorig:Hips
-      parentName: Armature.002
+      parentName: Armature.001
       position: {x: -0.00000036478042, y: 0.46470818, z: -0.0011482401}
       rotation: {x: 0.000000002478014, y: 0.00000016946944, z: 0.0000028491447, w: 1}
       scale: {x: 1, y: 1, z: 1}
@@ -972,48 +987,48 @@ ModelImporter:
       position: {x: -0, y: 0.05488369, z: 0}
       rotation: {x: 0, y: -0, z: -0, w: 1}
       scale: {x: 1, y: 1, z: 1}
-    - name: body.007
-      parentName: outfit1Rig(Clone)
+    - name: body.001
+      parentName: outfit1Rig 1(Clone)
       position: {x: -0, y: 0, z: 0}
       rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
       scale: {x: 100, y: 100, z: 100}
-    - name: eye.008
-      parentName: outfit1Rig(Clone)
+    - name: eye.001
+      parentName: outfit1Rig 1(Clone)
       position: {x: -0, y: 0, z: 0}
       rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
       scale: {x: 100, y: 100, z: 100}
-    - name: eyebrown.007
-      parentName: outfit1Rig(Clone)
+    - name: eyebrown
+      parentName: outfit1Rig 1(Clone)
       position: {x: -0, y: 0, z: 0}
       rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
       scale: {x: 100, y: 100, z: 100}
-    - name: glasses.003
-      parentName: outfit1Rig(Clone)
+    - name: glasses
+      parentName: outfit1Rig 1(Clone)
       position: {x: -0, y: 0, z: 0}
       rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
       scale: {x: 100, y: 100, z: 100}
-    - name: hair.008
-      parentName: outfit1Rig(Clone)
+    - name: hair.002
+      parentName: outfit1Rig 1(Clone)
       position: {x: -0, y: 0, z: 0}
       rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
       scale: {x: 100, y: 100, z: 100}
-    - name: hairline.007
-      parentName: outfit1Rig(Clone)
+    - name: hairline.001
+      parentName: outfit1Rig 1(Clone)
       position: {x: -0, y: 0, z: 0}
       rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
       scale: {x: 100, y: 100, z: 100}
-    - name: pant.008
-      parentName: outfit1Rig(Clone)
+    - name: pant.001
+      parentName: outfit1Rig 1(Clone)
       position: {x: -0, y: 0, z: 0}
       rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
       scale: {x: 100, y: 100, z: 100}
-    - name: shirt.007
-      parentName: outfit1Rig(Clone)
+    - name: shirt
+      parentName: outfit1Rig 1(Clone)
       position: {x: -0, y: 0, z: 0}
       rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
       scale: {x: 100, y: 100, z: 100}
-    - name: shoes.007
-      parentName: outfit1Rig(Clone)
+    - name: shoes
+      parentName: outfit1Rig 1(Clone)
       position: {x: -0, y: 0, z: 0}
       rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
       scale: {x: 100, y: 100, z: 100}
@@ -1029,7 +1044,7 @@ ModelImporter:
     hasTranslationDoF: 0
     hasExtraRoot: 1
     skeletonHasParents: 1
-  lastHumanDescriptionAvatarSource: {fileID: 9000000, guid: d45a45c97a9795b48b66ab8945375cab,
+  lastHumanDescriptionAvatarSource: {fileID: 9000000, guid: d56853cf24ee5d14caeaeecc2472fb2d,
     type: 3}
   autoGenerateAvatarMappingIfUnspecified: 1
   animationType: 3

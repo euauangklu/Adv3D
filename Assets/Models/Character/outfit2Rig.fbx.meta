@@ -594,18 +594,18 @@ ModelImporter:
         length: 0
         modified: 0
     skeleton:
-    - name: outfit1Rig(Clone)
+    - name: outfit1Rig 1(Clone)
       parentName: 
       position: {x: 0, y: 0, z: 0}
       rotation: {x: 0, y: 0, z: 0, w: 1}
       scale: {x: 1, y: 1, z: 1}
-    - name: Armature.002
-      parentName: outfit1Rig(Clone)
+    - name: Armature.001
+      parentName: outfit1Rig 1(Clone)
       position: {x: -0, y: 0, z: 0}
       rotation: {x: -0.000000037748947, y: 0, z: -0, w: 1}
       scale: {x: 1, y: 1, z: 1}
     - name: mixamorig:Hips
-      parentName: Armature.002
+      parentName: Armature.001
       position: {x: -0.00000036478042, y: 0.46470818, z: -0.0011482401}
       rotation: {x: 0.000000002478014, y: 0.00000016946944, z: 0.0000028491447, w: 1}
       scale: {x: 1, y: 1, z: 1}
@@ -1002,48 +1002,48 @@ ModelImporter:
       position: {x: -0, y: 0.05488369, z: 0}
       rotation: {x: 0, y: -0, z: -0, w: 1}
       scale: {x: 1, y: 1, z: 1}
-    - name: body.007
-      parentName: outfit1Rig(Clone)
+    - name: body.001
+      parentName: outfit1Rig 1(Clone)
       position: {x: -0, y: 0, z: 0}
       rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
       scale: {x: 100, y: 100, z: 100}
-    - name: eye.008
-      parentName: outfit1Rig(Clone)
+    - name: eye.001
+      parentName: outfit1Rig 1(Clone)
       position: {x: -0, y: 0, z: 0}
       rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
       scale: {x: 100, y: 100, z: 100}
-    - name: eyebrown.007
-      parentName: outfit1Rig(Clone)
+    - name: eyebrown
+      parentName: outfit1Rig 1(Clone)
       position: {x: -0, y: 0, z: 0}
       rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
       scale: {x: 100, y: 100, z: 100}
-    - name: glasses.003
-      parentName: outfit1Rig(Clone)
+    - name: glasses
+      parentName: outfit1Rig 1(Clone)
       position: {x: -0, y: 0, z: 0}
       rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
       scale: {x: 100, y: 100, z: 100}
-    - name: hair.008
-      parentName: outfit1Rig(Clone)
+    - name: hair.002
+      parentName: outfit1Rig 1(Clone)
       position: {x: -0, y: 0, z: 0}
       rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
       scale: {x: 100, y: 100, z: 100}
-    - name: hairline.007
-      parentName: outfit1Rig(Clone)
+    - name: hairline.001
+      parentName: outfit1Rig 1(Clone)
       position: {x: -0, y: 0, z: 0}
       rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
       scale: {x: 100, y: 100, z: 100}
-    - name: pant.008
-      parentName: outfit1Rig(Clone)
+    - name: pant.001
+      parentName: outfit1Rig 1(Clone)
       position: {x: -0, y: 0, z: 0}
       rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
       scale: {x: 100, y: 100, z: 100}
-    - name: shirt.007
-      parentName: outfit1Rig(Clone)
+    - name: shirt
+      parentName: outfit1Rig 1(Clone)
       position: {x: -0, y: 0, z: 0}
       rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
       scale: {x: 100, y: 100, z: 100}
-    - name: shoes.007
-      parentName: outfit1Rig(Clone)
+    - name: shoes
+      parentName: outfit1Rig 1(Clone)
       position: {x: -0, y: 0, z: 0}
       rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
       scale: {x: 100, y: 100, z: 100}
@@ -1059,7 +1059,7 @@ ModelImporter:
     hasTranslationDoF: 0
     hasExtraRoot: 1
     skeletonHasParents: 1
-  lastHumanDescriptionAvatarSource: {fileID: 9000000, guid: d45a45c97a9795b48b66ab8945375cab,
+  lastHumanDescriptionAvatarSource: {fileID: 9000000, guid: d56853cf24ee5d14caeaeecc2472fb2d,
     type: 3}
   autoGenerateAvatarMappingIfUnspecified: 1
   animationType: 3

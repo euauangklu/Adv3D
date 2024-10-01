@@ -24,7 +24,7 @@ MonoBehaviour:
   m_icon: {fileID: 21300000, guid: 81618cd724b237d4e808d8c03581731b, type: 3}
   m_name: Glasses
   m_characterClothing: Accessories
-  m_mesh: {fileID: 3345438102949909404, guid: d45a45c97a9795b48b66ab8945375cab, type: 3}
+  m_mesh: {fileID: 3538712456934850711, guid: d56853cf24ee5d14caeaeecc2472fb2d, type: 3}
   m_materials:
   - {fileID: 2100000, guid: c7a5d2fc987454d4ebe9087a41cb7407, type: 2}
   m_offsetFoot: {x: 0, y: 0, z: 0}
