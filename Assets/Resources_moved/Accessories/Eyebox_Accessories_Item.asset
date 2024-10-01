@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8b6787d4fc3e45339eef50136da68f9e, type: 3}
+  m_Name: Eyebox_Accessories_Item
+  m_EditorClassIdentifier: 
+  ScriptableObjectSerializeSettings: 0
+  _isResetDefaultAllValue: 1
+  ShowAdvancedSettings: 0
+  m_theme: 
+  m_isUnlock: 0
+  m_isRead: 0
+  m_unlockIcon: {fileID: 0}
+  m_lockIcon: {fileID: 0}
+  m_assetsDescription: 
+  m_icon: {fileID: 21300000, guid: 9a0e697dda83c754eb3d5b1aaa8fc3af, type: 3}
+  m_name: Eyebox
+  m_characterClothing: Accessories
+  m_mesh: {fileID: -2765874494900261830, guid: 8529d88c61a659e4890527a201fdba90, type: 3}
+  m_materials:
+  - {fileID: 2100000, guid: 144d0ed1730ee1d4c970be062f210e6e, type: 2}
+  - {fileID: 2100000, guid: 3303fa3a8ea11a94c9cf087166335808, type: 2}
+  - {fileID: 2100000, guid: 1d72d8a1d5cbb504e8921bc1f07889dc, type: 2}
+  m_offsetFoot: {x: 0, y: 0, z: 0}

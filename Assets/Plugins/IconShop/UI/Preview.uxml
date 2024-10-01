@@ -1,0 +1,9 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" editor-extension-mode="False">
+    <Style src="project://database/Assets/Scripts/Systems/CaptureGameObject/UI/USS/MainUSS.uss?fileID=7433441132597879392&amp;guid=fad442ce6aad2fb418cbc1d7b2964110&amp;type=3#MainUSS" />
+    <ui:VisualElement name="MainPanel" style="flex-grow: 1;">
+        <ui:ScrollView mode="Vertical" style="flex-grow: 1; align-self: stretch; justify-content: space-around; overflow: visible;">
+            <ui:VisualElement name="Preview" class="unity-image" style="flex-grow: 1; background-image: url(&quot;project://database/Assets/Model_FBX/CharacterWithAnimation/Girl/Textures/skirt_2.jpg?fileID=2800000&amp;guid=ef06cc8f3941a0c43aa7f34581d60432&amp;type=3#skirt_2&quot;); align-items: flex-start; justify-content: flex-start; align-self: flex-start; width: 1500px; height: 1500px; max-width: none; max-height: none; flex-shrink: 1; flex-basis: auto; flex-direction: column; transform-origin: center; translate: 0 0;" />
+        </ui:ScrollView>
+        <ui:Label tabindex="-1" text="Size : 100%" parse-escape-sequences="true" display-tooltip-when-elided="true" name="SizePreview" enable-rich-text="true" style="overflow: visible; display: flex; position: absolute;" />
+    </ui:VisualElement>
+</ui:UXML>

@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8b6787d4fc3e45339eef50136da68f9e, type: 3}
+  m_Name: Mahoraga_Accessories_Item2
+  m_EditorClassIdentifier: 
+  ScriptableObjectSerializeSettings: 0
+  _isResetDefaultAllValue: 1
+  ShowAdvancedSettings: 0
+  m_theme: 
+  m_isUnlock: 0
+  m_isRead: 0
+  m_unlockIcon: {fileID: 0}
+  m_lockIcon: {fileID: 0}
+  m_assetsDescription: 
+  m_icon: {fileID: 21300000, guid: 3d9373407f864c54bab144d5c956006d, type: 3}
+  m_name: Mahoraga
+  m_characterClothing: Accessories
+  m_mesh: {fileID: 2295802340452991870, guid: 8529d88c61a659e4890527a201fdba90, type: 3}
+  m_materials:
+  - {fileID: 2100000, guid: 9e16d3f2f1704de4195ea3bdb96bdedc, type: 2}
+  m_offsetFoot: {x: 0, y: 0, z: 0}

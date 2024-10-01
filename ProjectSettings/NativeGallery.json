@@ -1,0 +1,6 @@
+{
+    "AutomatedSetup": true,
+    "PhotoLibraryUsageDescription": "Allow access to the photo library to save your screenshots.",
+    "PhotoLibraryAdditionsUsageDescription": "Allow access to the photo library to save your screenshots.",
+    "DontAskLimitedPhotosPermissionAutomaticallyOnIos14": true
+}

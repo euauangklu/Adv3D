@@ -1,0 +1,115 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Character
+  m_EditorClassIdentifier: 
+  m_GroupName: Character
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 49d785ac67aa43548b62e4b891a1418b
+  m_SerializeEntries:
+  - m_GUID: 883b712ff95764c45b87b1ecb5437d29
+    m_Address: Default_Shoe
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Shoe
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6a0e37db0bc41c14c8f4474693e52e35
+    m_Address: Default_Shirt
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Shirt
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e4711eec20d4a7e4db2c316f15456d20
+    m_Address: Glasses_Accessories_Glasses
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Accessories
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1c5ca74827fe36f44a2a01e671130338
+    m_Address: Default_Trousers
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Trousers
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6408ab6b96b920642b18c02836cec562
+    m_Address: Red_Shirt
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Shirt
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8607f8cf91a31d442be8dbc2ca74a37d
+    m_Address: Black_Shirt
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Shirt
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 566fad34a38d79f4c9eab08dd1b1f219
+    m_Address: Black_Shoe
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Shoe
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1dab0a7884e3a8545bfc872e10777af4
+    m_Address: Red_Shoe
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Shoe
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d9112795dcbbb664bb1da811a849f524
+    m_Address: Red_Trousers
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Trousers
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d00310848997f924a9f04e2c407ffc05
+    m_Address: White_Trousers
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Trousers
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: cac78e10e54ff464797384f131029367
+    m_Address: BlackBlind_Accessories_AccessoriesType
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Accessories
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a0ebfb78c7f8683418851a2c9cced299
+    m_Address: WhiteBlind_Accessories_AccessoriesType
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Accessories
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7095f5415e393354ab1716d631ffac3f
+    m_Address: Eyebox_Accessories_Item
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Accessories
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: eb4f967342cc7244d9a0d73817c361b3
+    m_Address: Mahoraga_Accessories_Item2
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Accessories
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f4a62b5aa996bb24b9b0f821506f21be
+    m_Address: Katana_Accessories_Item3
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Accessories
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 7c0723d2c4fe9ee4199f5b85356d345b, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: debe95073b3dab64fb96513faa455305, type: 2}
+    - {fileID: 11400000, guid: adae038b73602ec4aa8ca39c62cb0618, type: 2}

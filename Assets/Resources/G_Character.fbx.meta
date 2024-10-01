@@ -1,0 +1,717 @@
+fileFormatVersion: 2
+guid: 290202628522ef149b598cb2e12a5179
+ModelImporter:
+  serializedVersion: 21300
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: AC_Flower_L_G
+    second: {fileID: 2100000, guid: 9d48c7f94da63064597555d7ceb422da, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Accessory
+    second: {fileID: 2100000, guid: 109794a46ace9954a9cbd0a102063ca5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Assesory.001
+    second: {fileID: 2100000, guid: 08ac86b95f87c05469e1a7cc69f8d3e4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Body_G_1
+    second: {fileID: 2100000, guid: 9d6a66d9e5181e14fad294c97279f9b7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Body_G_1.002
+    second: {fileID: 2100000, guid: 881ec9f4d680cac478e76925007eec84, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Eye_G_1
+    second: {fileID: 2100000, guid: c53ffea11f04f66498f49abac3c82eab, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Eye_G_1.002
+    second: {fileID: 2100000, guid: e51570873d94dd844ba9842e187ba781, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Face
+    second: {fileID: 2100000, guid: 780e456ecbe73a54d8bf7f6f4e3012ed, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Face.002
+    second: {fileID: 2100000, guid: a4093d4601d5cda4db38979e6dfc0c61, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Gold
+    second: {fileID: 2100000, guid: 4f974d2725d686044b8f97ff7e84cbbe, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Gold.001
+    second: {fileID: 2100000, guid: be6733398d23bec4280c0ff5c133087c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Gold.002
+    second: {fileID: 2100000, guid: 3d1768458684fc24f8a7f49f633d5e59, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Hair_K_G
+    second: {fileID: 2100000, guid: 1fc5f73dd7ea04642b39b097d6b9e94f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Hair_K_G.001
+    second: {fileID: 2100000, guid: dadb357f1af8ef74fb5c71593e3e96d9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Hair_Yai_1
+    second: {fileID: 2100000, guid: dd23ee61dfc3988468c3ca66986d4e13, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Hair_Yai_2
+    second: {fileID: 2100000, guid: 380e667f056ded446a79d49c7eb5e084, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Hair_yong
+    second: {fileID: 2100000, guid: 812c5eaaddde9cd4aa6977f8d115ceca, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Hair_yong_1
+    second: {fileID: 2100000, guid: a47c29f5512481b48a72dab21d8f3c17, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Headband_L
+    second: {fileID: 2100000, guid: 4da014544afbddd44bc62b10acd0f2dd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: K_Shirt_G
+    second: {fileID: 2100000, guid: f903f26b3bbbfd845a97e18f6e052415, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: L_hair_G
+    second: {fileID: 2100000, guid: 289b91a2d29034f459c1f7e89d696535, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.001
+    second: {fileID: 2100000, guid: 3d7385bfa96a1f049aea7dec6dcee699, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.002
+    second: {fileID: 2100000, guid: 7d2a7905bec81f040b36faad20da8b36, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.003
+    second: {fileID: 2100000, guid: 8481ec916c7f4a04f8d309a81b0ff4ba, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.005
+    second: {fileID: 2100000, guid: 60626513824cd5449b93e5784b18175b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sh_Yai_G
+    second: {fileID: 2100000, guid: f15dc8440f1f1864398eb4a39b582467, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Shirt_L.001
+    second: {fileID: 2100000, guid: 55410a61f7e7e52409e8bf6399ce8324, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Shirt_Yong_G
+    second: {fileID: 2100000, guid: cb04854e48aa109418568b6f4595e4b8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Shose_Y_G
+    second: {fileID: 2100000, guid: d2afadbb7eaf31a4bbeb0c8761d39a26, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Shose_Y_G.001
+    second: {fileID: 2100000, guid: e7a06b40542b6ab498cd215fb90d9b5e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Shose_Yai_G
+    second: {fileID: 2100000, guid: 980fe102bcfa22f44bde2edec1cdd31c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sk_Yai
+    second: {fileID: 2100000, guid: 85ed1765c4fa51843beeb22dddb79642, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Turban_Yai
+    second: {fileID: 2100000, guid: cc1da37e024ba804193004a307fcc54a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Undewear
+    second: {fileID: 2100000, guid: 8923abadf66cd694c8a3b180ac058482, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Y_Sash_G
+    second: {fileID: 2100000, guid: e0b8d3aa1c3fb46428f8f856f8f15a59, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Y_Shirt_G
+    second: {fileID: 2100000, guid: d8e263f072ecb3d4d889fc91425b5964, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Y_hair_G
+    second: {fileID: 2100000, guid: 6de64e67ecca3a54697681d4ef437e23, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Y_hair_G.002
+    second: {fileID: 2100000, guid: 1e0ee5d364172fd42a98963057c5626a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Y_skirt_G
+    second: {fileID: 2100000, guid: 741a718d3fb1d884c87a6b7245707325, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: skirt
+    second: {fileID: 2100000, guid: fd2be8d81e27769499c8e1cd180c6049, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: skirt.001
+    second: {fileID: 2100000, guid: c8eb14e907cb06849ab953247442cca1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: skirt.002
+    second: {fileID: 2100000, guid: 288d790e23228a04fbc6d0b97984045f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: turban
+    second: {fileID: 2100000, guid: 9671d28d6962e0d4480f526ae452a6f8, type: 2}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Body_G_1_Color
+    second: {fileID: 2800000, guid: 05bab05af4cb7594f813b46fa8dc8ec1, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Dog_Y_Sash_G_BaseMap
+    second: {fileID: 2800000, guid: 4366ca5e0a1963b479c2103f2b8f634f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Dog_Y_Sash_G_Normal
+    second: {fileID: 2800000, guid: fc0ee40c124291a45b0840346a71b5a7, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Face_G_1_Color
+    second: {fileID: 2800000, guid: c8f5723fc1a15de4490ca8c0490dba06, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Flower_Acessory_Ac_Flower_L_G_AlbedoTransparency
+    second: {fileID: 2800000, guid: 2d344ada09254a147b5294da957405d5, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Flower_Acessory_Ac_Flower_L_G_Normal
+    second: {fileID: 2800000, guid: c58abb13bfc5dde43890d88c6614c8d9, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Flower_Acessory_Y_Ac_Y_G_AlbedoTransparency
+    second: {fileID: 2800000, guid: d33f130b696ac824b986e6022cbadf84, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Flower_Acessory_Y_Ac_Y_G_Normal
+    second: {fileID: 2800000, guid: 64e95e18d6e1a5b469198ef8a4240bdf, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Hair_G_1_BaseColor
+    second: {fileID: 2800000, guid: e9433fb8dd282084e9b601a9be429622, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Hair_G_1_Normal
+    second: {fileID: 2800000, guid: 0fbc367b4fd0e304abaf72c416bf6206, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Hair_G_H_L_Hair_G_1_BaseMap
+    second: {fileID: 2800000, guid: bdeff7eca9495db47a75fff6fd20ba61, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Hair_G_H_L_Hair_G_1_Normal
+    second: {fileID: 2800000, guid: 4cfc09dcc9b08fd47b5eba914b5759f1, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Hair_Girl_K_Low_Hair_K_G_AlbedoTransparency
+    second: {fileID: 2800000, guid: dcc93a04157430a4faebf0f5ae0ed7bc, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Hair_Girl_K_Low_Hair_K_G_Normal
+    second: {fileID: 2800000, guid: 6e88b0627beb8d84aad15afb7c2a8f78, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Hair_Yai_Lo_Hair_Yai_1_AlbedoTransparency
+    second: {fileID: 2800000, guid: 65291fd543b2b5c4aaf6149bb5b93e17, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Hair_Yai_Lo_Hair_Yai_1_Normal
+    second: {fileID: 2800000, guid: e618fb3c8ef36614d95701f664e1ca01, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Hair_Yai_Lo_Hair_Yai_2_BaseMap
+    second: {fileID: 2800000, guid: e8953d0ff3fec7042a3ca9e5d23c790b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Hair_Yai_Lo_Hair_Yai_2_Normal
+    second: {fileID: 2800000, guid: e80b4e77fe256d84abc735881ecb6ca2, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: K_Shose_G_K_Shirt_G_AlbedoTransparency
+    second: {fileID: 2800000, guid: 7bc1ec9d23454a140b219f4e96bf9bee, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: K_Shose_G_K_Shirt_G_Normal
+    second: {fileID: 2800000, guid: cf544e3351164734885ea6a2406989f4, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: L_Shirt_Shirt_L.001_BaseMap
+    second: {fileID: 2800000, guid: 6a4f3003027ceb248bcb6f9f34e1168a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Poy_Low_BSurfaceMesh_AlbedoTransparency
+    second: {fileID: 2800000, guid: 34b5934437708394583c03a61d591ad7, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Poy_Low_BSurfaceMesh_Normal
+    second: {fileID: 2800000, guid: 6c2600adef282d144bdbf0b218ef24c6, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Sh_Yai_Sh_Yai_G_AlbedoTransparency
+    second: {fileID: 2800000, guid: 5542533ad49c5c447a9260963b91215a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Shirt_yong_Shirt_Yong_BaseMap
+    second: {fileID: 2800000, guid: a03c88e1223b30f4186802e2e52f784d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Shirt_yong_Shirt_Yong_Normal
+    second: {fileID: 2800000, guid: 0e91201700e987e4fb82d3d16e389ee6, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Shose_Y_G_Shose_Y.001_AlbedoTransparency
+    second: {fileID: 2800000, guid: 5be64651f26332d4095b412be0b5222b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Shose_Y_G_Shose_Y.001_Normal
+    second: {fileID: 2800000, guid: 984bdc816e36f9a418515d32f45d8c59, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: eye
+    second: {fileID: 2800000, guid: 9cdac00c13be16e4fa6c0fbffac1fec5, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: ff3
+    second: {fileID: 2800000, guid: 5c9ae92c3686cc2498abf5ccac0559c5, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: headband_L_G_HI_Assesory_BaseMap
+    second: {fileID: 2800000, guid: 2b2aa2d29b9bdaa479cb7b0255473d58, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: headband_L_G_HI_Assesory_Normal
+    second: {fileID: 2800000, guid: 6446e37ad25fb9a4696cb1dcbf22f5c5, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: skirt
+    second: {fileID: 2800000, guid: d241a4f98f3b9c448835212e81761b25, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: skirtYong
+    second: {fileID: 2800000, guid: 3e17fde8f30a736409c1991a36c1abd7, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: skirt_2
+    second: {fileID: 2800000, guid: ef06cc8f3941a0c43aa7f34581d60432, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: skirt_K
+    second: {fileID: 2800000, guid: 38bf3a42b6040a547ae20df87394b437, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: skirt_L
+    second: {fileID: 2800000, guid: 496b07cfea56c2345b57a62f36325131, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: skirt_Y
+    second: {fileID: 2800000, guid: 8d5598c38821e784697996148b49219e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: skirt_Yai
+    second: {fileID: 2800000, guid: 3ecea4a12c28b16479ed0f26fffed048, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: turban_L_turban_AlbedoTransparency
+    second: {fileID: 2800000, guid: 324ffd34569b0ff47b1e4e238587a51f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: turban_L_turban_Normal
+    second: {fileID: 2800000, guid: 377c99bc18861ca459a7a3b561e910a7, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: turban_Yai_Lo_Material.003_AlbedoTransparency
+    second: {fileID: 2800000, guid: 7e94c77bc06f29b4db0cd9aff5c5f075, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: turban_Yai_Lo_Material.003_Normal
+    second: {fileID: 2800000, guid: 4ec687f40d57cdb4a8b59bef51468d68, type: 3}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 1
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: "Copied Avatar Rig Configuration mis-match. Bone length in
+      copied configuration does not match position in animation file:\n\t'mixamorig:LeftUpLeg'
+      : position error = 4.705073 mm\n\t'mixamorig:LeftLeg' : position error = 7.649255
+      mm\n\t'mixamorig:LeftFoot' : position error = 47.318089 mm\n\t'mixamorig:LeftToeBase'
+      : position error = 1.959226 mm\n\t'mixamorig:RightUpLeg' : position error =
+      5.645701 mm\n\t'mixamorig:RightLeg' : position error = 7.605046 mm\n\t'mixamorig:RightFoot'
+      : position error = 47.329285 mm\n\t'mixamorig:RightToeBase' : position error
+      = 11.237767 mm\n"
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Armature|Armature.001|mixamo.com|Layer0
+      takeName: Armature|Armature.001|mixamo.com|Layer0
+      internalID: -6842666708266138392
+      firstFrame: 0
+      lastFrame: 1
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Armature|Armature.001|mixamo.com|Layer0.001
+      takeName: Armature|Armature.001|mixamo.com|Layer0.001
+      internalID: -5849203476035394275
+      firstFrame: 0
+      lastFrame: 400
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Armature|Armature.001|mixamo.com|Layer0.002
+      takeName: Armature|Armature.001|mixamo.com|Layer0.002
+      internalID: -3865379262170353974
+      firstFrame: 0
+      lastFrame: 115
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Armature|Armature.001|mixamo.com|Layer0.003
+      takeName: Armature|Armature.001|mixamo.com|Layer0.003
+      internalID: 3618420698690315038
+      firstFrame: 0
+      lastFrame: 283
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Armature|Armature|mixamo.com|Layer0
+      takeName: Armature|Armature|mixamo.com|Layer0
+      internalID: -4791504522942941401
+      firstFrame: 0
+      lastFrame: 1
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Armature|Armature|mixamo.com|Layer0.003
+      takeName: Armature|Armature|mixamo.com|Layer0.003
+      internalID: 85483252243113165
+      firstFrame: 0
+      lastFrame: 1
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 3
+  humanoidOversampling: 1
+  avatarSetup: 1
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

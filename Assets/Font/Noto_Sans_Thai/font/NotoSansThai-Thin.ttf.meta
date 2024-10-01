@@ -1,0 +1,27 @@
+fileFormatVersion: 2
+guid: 34651914a7e96bd48851d3453918cba2
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Noto Sans Thai
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 603bccba0c2f4564d85918435cf60aa6, type: 3}
+  - {fileID: 12800000, guid: 8724147ae8e9df6449f1a669423af4b2, type: 3}
+  - {fileID: 12800000, guid: 013cf9cf41236b249a2e6af1afd81b2b, type: 3}
+  - {fileID: 12800000, guid: 9b8913a04d5c8e649ab9e3d06b58ded3, type: 3}
+  - {fileID: 12800000, guid: 9dd83639980c3df4f8c73cddb27adeb5, type: 3}
+  - {fileID: 12800000, guid: a03c9f8a6b117ad479ac55b66015c00e, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

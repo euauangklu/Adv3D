@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+<<<<<<<< HEAD:MiniGame/Assets/Naplab/Asset/Fonts/NotoSans-Medium-Font Shadow.mat.meta
+guid: ccaf9621d9e5b354a95fa2a45a1767b4
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+========
+guid: e4730a76476009f4eaa5d447120f2d23
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 9100000
+>>>>>>>> ed832e114abbc2d655a9aa9ab439a8201528ffcf:MiniGame/Assets/Naplab/MiniGame/Coin/Animation/Canvas.controller.meta
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8b6787d4fc3e45339eef50136da68f9e, type: 3}
+  m_Name: Default_Shirt
+  m_EditorClassIdentifier: 
+  ScriptableObjectSerializeSettings: 0
+  _isResetDefaultAllValue: 1
+  ShowAdvancedSettings: 0
+  m_theme: 
+  m_isUnlock: 0
+  m_isRead: 0
+  m_unlockIcon: {fileID: 0}
+  m_lockIcon: {fileID: 0}
+  m_assetsDescription: 
+  m_icon: {fileID: 21300000, guid: 96613c562d253fa4ab793221b2f5db53, type: 3}
+  m_name: Outfit1
+  m_characterClothing: Shirt
+  m_mesh: {fileID: -6385950194801638425, guid: d45a45c97a9795b48b66ab8945375cab, type: 3}
+  m_materials:
+  - {fileID: 2100000, guid: 8aa625b1647016a45bce8f341705ed7c, type: 2}
+  m_offsetFoot: {x: 0, y: 0, z: 0}
